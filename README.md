@@ -5,7 +5,7 @@ The seat heating system is capable of maintaining of the temperature of seat in 
 |PS no. |  Name   |    Features    |
 |-------|---------|----------------|
 | `99006058` | Bamini Varalaxmi |Temperature os heater is varied|
-[![CI](https://github.com/Bamini-Varalaxmi/stepin_SeatHeating/actions/workflows/main.yml/badge.svg)](https://github.com/Bamini-Varalaxmi/stepin_SeatHeating/actions/workflows/main.yml)
+
 
 [![CI](https://github.com/Bamini-Varalaxmi/stepin_SeatHeating/actions/workflows/main.yml/badge.svg)](https://github.com/Bamini-Varalaxmi/stepin_SeatHeating/actions/workflows/main.yml)
 [![C/C++ CI](https://github.com/Bamini-Varalaxmi/stepin_SeatHeating/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Bamini-Varalaxmi/stepin_SeatHeating/actions/workflows/c-cpp.yml)
