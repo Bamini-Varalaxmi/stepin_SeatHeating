@@ -15,6 +15,7 @@
 |![PWM_70%](https://user-images.githubusercontent.com/89648206/133635542-f5e579b8-6ca8-4798-b7a7-d41fcfb10734.png)|![PWM_95%](https://user-images.githubusercontent.com/89648059/133641687-8803a759-240a-4539-a3a1-c69b3bd0dc82.png)|
 
 ## Activity-3
+# Displaying the temperature
 
 |PWM_20%|PWM_40%|
 |:--:|:--:|
