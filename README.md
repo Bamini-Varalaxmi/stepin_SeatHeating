@@ -4,7 +4,18 @@ The seat heating system is capable of maintaining of the temperature of seat in 
 ## Contributors List and Summary
 |PS no. |  Name   |    Features    |
 |-------|---------|----------------|
-| `99006058` | Bamini Varalaxmi |Temperature os heater is varied|
+| `99006058` | Bamini Varalaxmi |Temperature of the heater is varied|
+
+## Folder Structure
+Folder                   | Description
+-------------------------| -----------------------------------------
+`1_Requirements`         | Documents detailed requirements
+`2_Architecture`         | Behavioural and Structural UML Diagrams(Both High Level and Low Level)
+`3_Implementation`     | All codes and Simulation
+`4_Testplan`       | Documents with test plans and procedures and Output
+`5_Report`               | Documentation of whole project
+`6_Imanges and Videos`      | Code Execution Images and Videos
+`7_`Others      | Other files
 
 
 [![CI](https://github.com/Bamini-Varalaxmi/stepin_SeatHeating/actions/workflows/main.yml/badge.svg)](https://github.com/Bamini-Varalaxmi/stepin_SeatHeating/actions/workflows/main.yml)
