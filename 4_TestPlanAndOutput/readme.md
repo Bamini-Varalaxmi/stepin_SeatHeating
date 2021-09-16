@@ -1,5 +1,8 @@
-## OUTPUT
-* Displaying the temperature
+
+# TEST PLAN:
+| **Test ID** | **Description**                                              | **Expected Input** | **Expected Output** |   
+|-------------|--------------------------------------------------------------|------------|-------------|
+|  HLT_01      | Seat Heating System | person existance button & temp request is enabled | Both the push buttons ON |## Heater ON
 
 |PWM_20%|PWM_40%|
 |:--:|:--:|
