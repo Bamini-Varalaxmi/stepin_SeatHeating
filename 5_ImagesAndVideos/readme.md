@@ -12,7 +12,7 @@
 |:--:|:--:|
 |![PWM_20%](https://user-images.githubusercontent.com/89648206/133634938-35a1bb01-56f5-4e60-920b-4ebe67837baf.png) |![PWM_40%](https://user-images.githubusercontent.com/89648206/133635307-9ca8afc4-2df4-487d-94e8-43e6d2d209b2.png)|
 |PWM_70%|PWM_95%|
-|![PWM_70%](https://user-images.githubusercontent.com/89648206/133635542-f5e579b8-6ca8-4798-b7a7-d41fcfb10734.png)|![PWM_95%](https://user-images.githubusercontent.com/80662569/116461900-72339800-a886-11eb-8eea-43aeae327bea.PNG)|
+|![PWM_70%](https://user-images.githubusercontent.com/89648206/133635542-f5e579b8-6ca8-4798-b7a7-d41fcfb10734.png)|![PWM_95%](https://user-images.githubusercontent.com/89648059/133641687-8803a759-240a-4539-a3a1-c69b3bd0dc82.png)|
 
 
 
