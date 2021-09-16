@@ -7,13 +7,19 @@ The seat heating system is capable of maintaining of the temperature of seat in 
 * Mostly used in Europen Countries.
 * Low cost.
  # SWOT Analysis
-** Strengths
+# Strengths
 * User friendly.
 * Easy to set the temperature .
 * Low cost
-** Weakness
+# Weakness
 * It is used only in the European countries.
-** Opportunities
+# Opportunities
 * It can be implementaed along with AC.
-** Threats
+# Threats
 * Not used in average and high temperatures.
+# 4 W's and 1 H
+* What: Heat Monitoring System.
+* Where: Used in automotive industry.
+* When: At low temperature.
+* Why: For being warm.
+* How: Operates by varyibg the temperature.
