@@ -10,3 +10,4 @@ The seat heating system is capable of maintaining of the temperature of seat in 
 [![CI](https://github.com/Bamini-Varalaxmi/stepin_SeatHeating/actions/workflows/main.yml/badge.svg)](https://github.com/Bamini-Varalaxmi/stepin_SeatHeating/actions/workflows/main.yml)
 [![C/C++ CI](https://github.com/Bamini-Varalaxmi/stepin_SeatHeating/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Bamini-Varalaxmi/stepin_SeatHeating/actions/workflows/c-cpp.yml)
 [![Code Quality](https://www.code-inspector.com/project/28088/score/svg)](https://www.code-inspector.com)
+[![GitInspector](https://github.com/Bamini-Varalaxmi/stepin_SeatHeating/actions/workflows/git%20inspector.yml/badge.svg)](https://github.com/Bamini-Varalaxmi/stepin_SeatHeating/actions/workflows/git%20inspector.yml)
